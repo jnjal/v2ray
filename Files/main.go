@@ -1,0 +1,349 @@
+package main
+
+import (
+	"bufio"
+	"context"
+	"encoding/base64"
+	"fmt"
+	"io"
+	"net"
+	"net/http"
+	"os"
+	"path/filepath"
+	"strings"
+	"sync"
+	"time"
+)
+
+const (
+	timeout         = 20 * time.Second
+	maxWorkers      = 20
+	maxLinesPerFile = 500
+)
+
+var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+#//profile-update-interval: 1
+#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+#support-url: 
+#profile-web-page-url: 
+`
+
+var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
+var links = []string{"https://www.v2nodes.com/subscriptions/country/all/?key=B2CAC704310044F", "https://www.v2nodes.com/subscriptions/country/fi/?key=B2CAC704310044F", "https://www.v2nodes.com/subscriptions/country/de/?key=B2CAC704310044F", "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray", "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2", "https://shadowmere.xyz/api/b64sub/", "https://robin.victoriacross.ir", "https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/xray/base64/mix"}
+var dirLinks = []string{"https://demo.wuqb2i4f.workers.dev/20cf4d65-f3ac-4266-8148-76de9e1eac6e/configs?sub=wuqb2i4f", "https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/new_configs.txt", "https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt", "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless", "https://the3rf.com/sub.php", "https://raw.githubusercontent.com/code3-dev/code3-dev/refs/heads/main/warp-in-vless", "https://raw.githubusercontent.com/sahar-km/Freedom/refs/heads/main/-/-/Arm64/-/V8A.txt", "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix", "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html", "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy", "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt", "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt", "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime", "https://raw.githubusercontent.com/hamedp-71/Trojan/refs/heads/main/hp.txt", "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Netherlands.txt", "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H", "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt", "https://raw.githubusercontent.com/peweza/SUB-PUBLIC/refs/heads/main/PewezaVPN", "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"}
+
+type Result struct {
+	Content  string
+	IsBase64 bool
+}
+
+func main() {
+	fmt.Println("Starting V2Ray config aggregator...")
+	
+	// ایجاد پوشه‌ها
+	base64Folder, err := ensureDirectoriesExist()
+	if err != nil {
+		fmt.Printf("Error creating directories: %v\n", err)
+		return
+	}
+
+	client := &http.Client{
+		Timeout: timeout,
+		Transport: &http.Transport{MaxIdleConns: 100, MaxIdleConnsPerHost: 10, IdleConnTimeout: 30 * time.Second, DialContext: (&net.Dialer{Timeout: 10 * time.Second}).DialContext},
+	}
+
+	fmt.Println("Fetching configurations from sources...")
+	allConfigs := fetchAllConfigs(client, links, dirLinks)
+
+	fmt.Println("Filtering configurations and removing duplicates...")
+	originalCount := len(allConfigs)
+	filteredConfigs := filterForProtocols(allConfigs, protocols)
+	fmt.Printf("Found %d unique valid configurations\n", len(filteredConfigs))
+	fmt.Printf("Removed %d duplicates\n", originalCount-len(filteredConfigs))
+
+	// === تغییر مهم: حذف کامل لاجیک تغییر نام ===
+	// فقط کانفیگ‌های فیلتر شده را به مرحله بعد منتقل می‌کنیم
+	renamedConfigs := filteredConfigs
+	fmt.Println("Skipping renaming process (keeping original names)...")
+
+	cleanExistingFiles(base64Folder)
+
+	// نوشتن فایل اصلی
+	mainOutputFile := "All_Configs_Sub.txt"
+	err = writeMainConfigFile(mainOutputFile, renamedConfigs)
+	if err != nil {
+		fmt.Printf("Error writing main config file: %v\n", err)
+		return
+	}
+	fmt.Printf("  - Successfully created %s\n", mainOutputFile)
+
+	// ساخت نسخه Base64 فایل اصلی
+	content, err := os.ReadFile(mainOutputFile)
+	if err != nil {
+		fmt.Printf("Warning: could not read main config file to create base64 version: %v\n", err)
+	} else {
+		encodedContent := base64.StdEncoding.EncodeToString(content)
+		base64OutputFile := "All_Configs_base64_Sub.txt"
+		err = os.WriteFile(base64OutputFile, []byte(encodedContent), 0644)
+		if err != nil {
+			fmt.Printf("Warning: could not write base64 main config file: %v\n", err)
+		} else {
+			fmt.Printf("  - Successfully created %s\n", base64OutputFile)
+		}
+	}
+
+	fmt.Println("Splitting into smaller files...")
+	err = splitIntoFiles(base64Folder, renamedConfigs)
+	if err != nil {
+		fmt.Printf("Error splitting files: %v\n", err)
+		return
+	}
+
+	fmt.Println("Splitting configurations by protocol...")
+	err = splitByProtocol(renamedConfigs)
+	if err != nil {
+		fmt.Printf("Error splitting by protocol: %v\n", err)
+	}
+
+	fmt.Println("Configuration aggregation completed successfully!")
+}
+
+func splitByProtocol(configs []string) error {
+	protocolDir := "Splitted-By-Protocol"
+	if err := os.MkdirAll(protocolDir, 0755); err != nil {
+		return fmt.Errorf("could not create protocol directory: %v", err)
+	}
+	protocolConfigs := make(map[string][]string)
+	for _, config := range configs {
+		parts := strings.SplitN(config, "://", 2)
+		if len(parts) > 1 {
+			protocol := parts[0]
+			protocolConfigs[protocol] = append(protocolConfigs[protocol], config)
+		}
+	}
+	for protocol, configsInProtocol := range protocolConfigs {
+		filename := filepath.Join(protocolDir, fmt.Sprintf("%s.txt", protocol))
+		content := strings.Join(configsInProtocol, "\n")
+		if err := os.WriteFile(filename, []byte(content), 0644); err != nil {
+			fmt.Printf("Warning: could not write to file %s: %v\n", filename, err)
+		} else {
+			fmt.Printf("  - Wrote %d configs to %s\n", len(configsInProtocol), filename)
+		}
+	}
+	return nil
+}
+
+func ensureDirectoriesExist() (string, error) {
+	base64Folder := "Base64"
+	if err := os.MkdirAll(base64Folder, 0755); err != nil {
+		return "", err
+	}
+	return base64Folder, nil
+}
+
+func fetchAllConfigs(client *http.Client, base64Links, textLinks []string) []string {
+	var wg sync.WaitGroup
+	resultChan := make(chan Result, len(base64Links)+len(textLinks))
+	semaphore := make(chan struct{}, maxWorkers)
+	for _, link := range base64Links {
+		wg.Add(1)
+		go func(url string) {
+			defer wg.Done()
+			semaphore <- struct{}{}
+			defer func() { <-semaphore }()
+			content := fetchAndDecodeBase64(client, url)
+			if content != "" {
+				resultChan <- Result{Content: content, IsBase64: true}
+			}
+		}(link)
+	}
+	for _, link := range textLinks {
+		wg.Add(1)
+		go func(url string) {
+			defer wg.Done()
+			semaphore <- struct{}{}
+			defer func() { <-semaphore }()
+			content := fetchText(client, url)
+			if content != "" {
+				resultChan <- Result{Content: content, IsBase64: false}
+			}
+		}(link)
+	}
+	go func() {
+		wg.Wait()
+		close(resultChan)
+	}()
+	var allConfigs []string
+	for result := range resultChan {
+		lines := strings.Split(strings.TrimSpace(result.Content), "\n")
+		allConfigs = append(allConfigs, lines...)
+	}
+	return allConfigs
+}
+
+func fetchAndDecodeBase64(client *http.Client, url string) string {
+	ctx, cancel := context.WithTimeout(context.Background(), timeout)
+	defer cancel()
+	req, err := http.NewRequestWithContext(ctx, "GET", url, nil)
+	if err != nil {
+		return ""
+	}
+	resp, err := client.Do(req)
+	if err != nil {
+		return ""
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return ""
+	}
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return ""
+	}
+	decoded, err := decodeBase64(body)
+	if err != nil {
+		return ""
+	}
+	return decoded
+}
+
+func fetchText(client *http.Client, url string) string {
+	ctx, cancel := context.WithTimeout(context.Background(), timeout)
+	defer cancel()
+	req, err := http.NewRequestWithContext(ctx, "GET", url, nil)
+	if err != nil {
+		return ""
+	}
+	resp, err := client.Do(req)
+	if err != nil {
+		return ""
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		return ""
+	}
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return ""
+	}
+	return string(body)
+}
+
+func decodeBase64(encoded []byte) (string, error) {
+	encodedStr := string(encoded)
+	if len(encodedStr)%4 != 0 {
+		encodedStr += strings.Repeat("=", 4-len(encodedStr)%4)
+	}
+	decoded, err := base64.StdEncoding.DecodeString(encodedStr)
+	if err != nil {
+		return "", err
+	}
+	return string(decoded), nil
+}
+
+func filterForProtocols(data []string, protocols []string) []string {
+	var filtered []string
+	seen := make(map[string]bool)
+	for _, line := range data {
+		line = strings.TrimSpace(line)
+		if line == "" {
+			continue
+		}
+		if seen[line] {
+			continue
+		}
+		for _, protocol := range protocols {
+			if strings.HasPrefix(line, protocol) {
+				filtered = append(filtered, line)
+				seen[line] = true
+				break
+			}
+		}
+	}
+	return filtered
+}
+
+func cleanExistingFiles(base64Folder string) {
+	os.Remove("All_Configs_Sub.txt")
+	os.Remove("All_Configs_base64_Sub.txt")
+	os.RemoveAll("Splitted-By-Protocol")
+	for i := 0; i < 20; i++ {
+		os.Remove(fmt.Sprintf("Sub%d.txt", i))
+		os.Remove(filepath.Join(base64Folder, fmt.Sprintf("Sub%d_base64.txt", i)))
+	}
+}
+
+func writeMainConfigFile(filename string, configs []string) error {
+	file, err := os.Create(filename)
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+	writer := bufio.NewWriter(file)
+	defer writer.Flush()
+	if _, err := writer.WriteString(fixedText); err != nil {
+		return err
+	}
+	for _, config := range configs {
+		if _, err := writer.WriteString(config + "\n"); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func splitIntoFiles(base64Folder string, configs []string) error {
+	numFiles := (len(configs) + maxLinesPerFile - 1) / maxLinesPerFile
+	reversedConfigs := make([]string, len(configs))
+	for i, config := range configs {
+		reversedConfigs[len(configs)-1-i] = config
+	}
+	for i := 0; i < numFiles; i++ {
+		profileTitle := fmt.Sprintf("🆓 Git:DanialSamadi | Sub%d 🔥", i+1)
+		encodedTitle := base64.StdEncoding.EncodeToString([]byte(profileTitle))
+		customFixedText := fmt.Sprintf(`#//profile-title: base64:%s
+#//profile-update-interval: 1
+#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+#support-url: 
+#profile-web-page-url: 
+`, encodedTitle)
+		start := i * maxLinesPerFile
+		end := start + maxLinesPerFile
+		if end > len(reversedConfigs) {
+			end = len(reversedConfigs)
+		}
+		filename := fmt.Sprintf("Sub%d.txt", i+1)
+		if err := writeSubFile(filename, customFixedText, reversedConfigs[start:end]); err != nil {
+			return err
+		}
+		content, err := os.ReadFile(filename)
+		if err != nil {
+			return err
+		}
+		base64Filename := filepath.Join(base64Folder, fmt.Sprintf("Sub%d_base64.txt", i+1))
+		encodedContent := base64.StdEncoding.EncodeToString(content)
+		if err := os.WriteFile(base64Filename, []byte(encodedContent), 0644); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func writeSubFile(filename, header string, configs []string) error {
+	file, err := os.Create(filename)
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+	writer := bufio.NewWriter(file)
+	defer writer.Flush()
+	if _, err := writer.WriteString(header); err != nil {
+		return err
+	}
+	for _, config := range configs {
+		if _, err := writer.WriteString(config + "\n"); err != nil {
+			return err
+		}
+	}
+	return nil
+}
