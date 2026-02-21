@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNiDwn5Sl)vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@195.201.222.173:9090?security=reality&encryption=none&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&headerType=none&fp=chrome&spx=/FY9rtRsCI8XAxsf&type=tcp&sni=tgju.org&sid=52e5#@meliproxyy
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNiDwn5Sl)vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlMEElNUJCeSUyMER1a2VNZWhkaSU1RCUyMHRyb2phbi1ISyUyMCIsInRscyI6IiJ9
+vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@195.201.222.173:9090?security=reality&encryption=none&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&headerType=none&fp=chrome&spx=/FY9rtRsCI8XAxsf&type=tcp&sni=tgju.org&sid=52e5#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2019
 vmess://ewogICAgImFkZCI6ICJtbWhoai4ybm4uY2N3dS5jYyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm1taGhqLjJubi5jY3d1LmNjIiwKICAgICJpZCI6ICI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMTUuMjQwLTE3MDEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@47.253.253.238:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&allowInsecure=1&fp=chrome&packetEncoding=xudp#@chillguy_vpn
@@ -502,4 +503,3 @@ vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:8443?path=/?ed=2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#『♨️ 𝐹𝑟𝑒𝑒𝑊𝑜𝑟𝑙𝑑 ♨️』@Free_World2
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.18:9038#%f0%9f%87%b5%f0%9f%87%b1%20PL%2016
 trojan://telegram-id-directvpn@13.39.26.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3ZjIiwiaG9zdCI6InZjLmZseS5kZXYiLCJ0bHMiOiIifQ==

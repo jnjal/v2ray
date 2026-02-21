@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.153:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2033
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://ca67859b-69e4-40d0-b992-d098ee8addff@vk-de.asbndx.com:443?security=reality&encryption=none&pbk=cz17sowrrixb4NxCYwudSg_D0HNsznx7G2tm4ysuYAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0f4dacf08722a04f#Config 2 - @lebertad
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.153:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2033
 vmess://ewogICAgImFkZCI6ICJ2Yy5mbHkuZGV2IiwKICAgICJhaWQiOiAzMiwKICAgICJob3N0IjogInZjLmZseS5kZXYiLAogICAgImlkIjogIjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuvCfh7hVUy03Ny44My4xNDEuMTcxLTAxNzQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ2Yy5mbHkuZGV2Igp9
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@nnggnjj.6yy.ccwu.cc:443?security=tls&sni=nnggnjj.6yy.ccwu.cc&alpn=http%2f1.1&type=ws&host=nnggnjj.6yy.ccwu.cc&path=%2fpdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2084
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.141:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20286
@@ -502,4 +503,3 @@ vless://dfb89560-d029-4fa8-b49c-feedfc5078ef@ip2-fast.tyryqyserver.ir:80?path=%2
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#%f0%9f%87%b5%f0%9f%87%b1%20PL%206
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@Hddify
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.151:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20299
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cgR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjgyLjE5OC4yNDYuOTciLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlRUYlQkYlQkQlMEElNUJCeSUyMER1a2VNZWhkaSU1RCUyMHRyb2phbi1ISyUyMCIsInRscyI6IiJ9
