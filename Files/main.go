@@ -21,9 +21,9 @@ const (
 	maxLinesPerFile = 500
 )
 
-var fixedText = `#//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-#//profile-update-interval: 1
-#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+var fixedText = `#profile-title: base64:am5qYWwgc3Vi
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
 `
@@ -301,9 +301,9 @@ func splitIntoFiles(base64Folder string, configs []string) error {
 	for i := 0; i < numFiles; i++ {
 		profileTitle := fmt.Sprintf("🆓 Git:DanialSamadi | Sub%d 🔥", i+1)
 		encodedTitle := base64.StdEncoding.EncodeToString([]byte(profileTitle))
-		customFixedText := fmt.Sprintf(`#//profile-title: base64:%s
-#//profile-update-interval: 1
-#//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+		customFixedText := fmt.Sprintf(`#profile-title: base64:am5qYWwgc3Vi
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
 `, encodedTitle)
