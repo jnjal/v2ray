@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOSDwn5Sl)vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@www.speedtest.net:443/?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#🔥Join+Telegram:@Farah_VPN🟣
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOSDwn5Sl)vless://77466941-b026-454b-b915-94c8f89b594e@ip.elcump.top:443?path=/?ed=https://t.me/XiliVpN?ed=512&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=r4fnviw9jl4i4rx.zjde5.de5.net&fp=chrome&type=ws&sni=r4fnviw9jl4i4rx.zjde5.de5.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.87.25.176:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&sni=sni.111000.indevs.in#🔥Join+Telegram:@Farah_VPN🟣
+vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@www.speedtest.net:443/?path=/?ed=36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kkiihh-iran-abc-iran-1993.kinghooman.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.240.96:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram
 vless://fd8959a7-1e3d-41d3-bc03-60686c2081c9@167.71.33.74:8080?mode=gun&security=reality&encryption=none&pbk=TdyVchT3qabnfav2_oXs8JPA6EP4_1OLF4AM2uKTtU0&fp=chrome&spx=%2F&type=grpc&serviceName=%40%5a%45%44%4d%4f%44%45%4f%4e&sni=itpsysteme.de&sid=977ebe48#🔥Join+Telegram:@Farah_VPN🟣
 vless://Telegram-chanel%20%3D%20%40digi_config@185.171.202.30:33514?mode=auto&path=%2F&security=reality&encryption=none&pbk=umtoktgt8fKZ76DQbtut49eGGrfGZ7231IdblIvCPmQ&host=mikrotik.com&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=6f8de2cd56eb8ce9#%40v2ray_phoenix
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.190:1013?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#🔥Join+Telegram:@Farah_VPN🟣
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.218:8443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.v6.navy#🔥Join+Telegram:@Farah_VPN🟣
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?encryption=none&security=tls&sni=rayan-007.nastaran.dpdns.org&fp=chrome&insecure=1&type=ws&host=rayan-007.nastaran.dpdns.org&path=//chanl--telegram--feri-v2ray-proxy--telegram--feri-v2ray-proxy--telegram--feri-v2ray-proxy--telegram--feri-v2ray-proxy--telegram--feri-v2ray-proxy?ed=2560#🔥Join+Telegram:@Farah_VPN🟣
-trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@bbbnhju.1xa.ccwu.cc:443?security=tls&sni=bbbnhju.1xa.ccwu.cc&alpn=http%2f1.1&type=ws&host=bbbnhju.1xa.ccwu.cc&path=%2f7vMsF4VUuJ3dX414bl#%f0%9f%87%ba%f0%9f%87%b8%20US%2018
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.112:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20192
