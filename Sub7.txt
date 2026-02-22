@@ -3,10 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNyDwn5Sl)vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-vless://0e4e3a71-e712-49c6-a6a5-0b457764746e@104.26.15.21:443/?path=/3.86.231.180&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#@v2rays_ha 10490
-vless://b9674dd8-c6ed-4be6-af5c-31490ba4d106@47.253.253.238:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com#@freenettir
-vless://e2273e4a-ae8f-4937-baa0-a68860e22e61@jp.ok12345.ggff.net:10050?mode=multi&security=reality&encryption=none&type=tcp&pbk=LaqO0nYGVpe5TLyUrb7c1uf0Ui1FM2GMx_RBG-RSz0Y&sid=cdca350e5b&sni=icloud.com&servername=icloud.com&spx=/&fp=chrome#⚡Telegram = @SOSkeyNET
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNyDwn5Sl)vless://e2273e4a-ae8f-4937-baa0-a68860e22e61@jp.ok12345.ggff.net:10050?mode=multi&security=reality&encryption=none&type=tcp&pbk=LaqO0nYGVpe5TLyUrb7c1uf0Ui1FM2GMx_RBG-RSz0Y&sid=cdca350e5b&sni=icloud.com&servername=icloud.com&spx=/&fp=chrome#⚡Telegram = @SOSkeyNET
 vless://f2eeaf91-6ac0-47f3-9673-39476e75c02d@188.114.98.0:2052?path=/t.me.V2RayyNGvpn?ed=1024&security=none&encryption=none&host=metaplayer.gameredzone.top&type=ws#🇹🇷T.me/V2RayyNGvpn 🇹🇷
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.81:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2083
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@mki.huangzi.eu.cc:443?security=tls&sni=mki.huangzi.eu.cc&alpn=http%2f1.1&type=ws&host=mki.huangzi.eu.cc&path=%2fpdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2060
@@ -503,3 +500,6 @@ ss://38638988-bd22-41dc-bc45-3e821fa8ff8f@fans2.mahoshid.ir:45471?security=&encr
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.118:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2067
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:805#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0135
 vmess://eyJhZGQiOiI1MS44My41Mi4xNzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiIyYzcyYzY2Ny0wOTNjLTQ3YTUtYTEwOC00OTNjOTMyODJiNTciLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg1IiwicHMiOiJAQXphZGlvTmV0INin24zZhiDYtNix2YjYudi02YfimqHvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.207:443?path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🔥Join+Telegram:@Farah_VPN🟣
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s3.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://76519b4d-f880-4fa5-e02f-77df232fa79e@3.79.167.141:36062?security=&encryption=none&headerType=&type=tcp#@vmess_iran 14
