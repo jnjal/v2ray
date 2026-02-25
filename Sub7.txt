@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNyDwn5Sl)ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NFd1Q3VtRG8tNGFoRlBQdWhHNkF1TW44Y21ncm1TSw==@api.melonpanel.ir:1080?type=tcp#@FREE_VPN02 🏀
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096/?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#🔥Join+Telegram:@Farah_VPN🟣
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNyDwn5Sl)vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096/?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2#🔥Join+Telegram:@Farah_VPN🟣
 vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@178.154.224.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4#🥎86@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0249
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@45.13.119.38:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#@AkbarConfig👈کانفیگ روزانه در
@@ -503,3 +502,4 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO
 vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&flow=&type=ws&path=/&security=tls&fp=chrome&sni=all-fm2.netsnap.ir.#@meliproxyy
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?security=none&type=ws&path=%2F%3Fed%40freenettir&host=exemplary-milkytsxqiqyso.sportland.company.&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2001
 vless://d14db1bc-51ad-40af-87ca-4d6ace1f117d@104.17.148.22:8080/?security=none&type=ws&host=FAST.COM.TELewebION.COM.Fast.COm.DiscoRD.com.filimo.com.pRotonix.ir.&path=/?ed=2048#@v2rays_ha 11116
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2L2RRSDM2Slh5dm9KUFlVM2sraFk1alpqRW93OXVaeHBvc1FaSzRjTnk0PQ@bestout2.curtvjix.ir:9723#Channel id: @ARGO_VPN1 🇫🇮
