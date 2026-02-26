@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)ss://bnVsbDpudWxs@vip-79.f-sub.cfd:1517#🔥Join+Telegram:@Farah_VPN🟣
-vless://42c81f29-5dc4-489d-8446-cf6204a084f3@loncas.izumii.ir:7180?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)vless://42c81f29-5dc4-489d-8446-cf6204a084f3@loncas.izumii.ir:7180?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://Telegram🇨🇳 @WangCai2@31.57.26.194:2053/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=/sg-lnd&security=tls&sni=tn1rr.qzz.io#⚡Telegram = @SOSkeyNET
 vmess://ewogICAgImFkZCI6ICJuMTc1MjI0ODk0Ni40dTltYS5pY3UiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MjI0ODk0Ni40dTltYS5pY3UiLAogICAgImlkIjogImVmMTY3OTg2LWQxNTQtNDQwOS04OGIxLTc1N2VmYjZhZTgyMyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrfCfh7BISy04LjIxOC40NS4xOTEtMDI5MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://a621f28a-373f-40f8-9fc2-69990b607a17@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f103.29.32.66%3d443#%f0%9f%87%ba%f0%9f%87%b8%20US%2047
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.192.239.112:443?security=none&encryption=none&headerType=none&type=tcp#@VPNFARDAD
 vmess://eyJ2IjogIjIiLCAicHMiOiAi4pqh77iPVGVsZWdyYW0gPSBAU09Ta2V5TkVUIiwgImFkZCI6ICI2OS42My4yMTAuMzUiLCAicG9ydCI6IDI0OTQzLCAiaWQiOiAiYTg5ZmVkYTktZWMzMC00OGMxLWFlNmItMWE2ZjViNTczZjZiIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInBhdGgiOiAiL2E4OWZlZGE5LWVjMzAtNDhjMS1hZTZiLTFhNmY1YjU3M2Y2Yi12bSJ9
 ss://e384913f-8863-47b4-8858-a84b68abb4a6@2.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#🔥Join+Telegram:@Farah_VPN🟣
+ss://e100a774-bd63-4d61-8a43-6db1acfa89fb@91.98.80.2:8880?type=tcp&amp;encryption=none&amp;security=none#🔥Join+Telegram:@Farah_VPN🟣

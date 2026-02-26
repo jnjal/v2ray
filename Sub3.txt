@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)ss://e100a774-bd63-4d61-8a43-6db1acfa89fb@91.98.80.2:8880?type=tcp&amp;encryption=none&amp;security=none#🔥Join+Telegram:@Farah_VPN🟣
-vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=2gis.kz&fp=chrome&security=reality&pbk=tQshkBu8I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&sid=63d80d5199a2bc#@networld_vpn
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=2gis.kz&fp=chrome&security=reality&pbk=tQshkBu8I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&sid=63d80d5199a2bc#@networld_vpn
 ss://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.173.212:80?mode=auto&path=/-AzV2ry?ed=2056&security=&encryption=none&host=qbank.ir&type=xhttp#@meliproxyy
 vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f118.91.78.76%3d50001#%f0%9f%87%ba%f0%9f%87%b8%20US%2025
@@ -503,3 +502,4 @@ ss://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.245:443?security=tls&sni=cj
 ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:80#%f0%9f%87%ba%f0%9f%87%b8%20US%20143
 vless://dad1b143-f782-4a70-a896-905da94fee7f@188.253.22.2:443?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://01023e5d-6f7e-4b8f-afce-a40f7e9c24ae@Z6.PRODNSSPEED10.IR:8443?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=dan2.sodogodping.ir#⚡ @HajmVPN_Config
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.75:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20331
