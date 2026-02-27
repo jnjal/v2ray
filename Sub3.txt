@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)trojan://741h2rcz-b4yt-vvnv-qmuw-wum5ntpn2h58@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)vless://dabdcb5d-6a04-417e-add7-1c6bf4a7cd4f@212.233.121.51:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=S6xivYluTYcsdB4JA7QOKE9lyJ-r_lcuwIhWxEXFUFA&sid=523481#channel→@networld_vpn
+trojan://741h2rcz-b4yt-vvnv-qmuw-wum5ntpn2h58@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.70-4878
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=/?ed=2560fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080?#🔥 Telegram: @wiki_tajrobe
@@ -11,6 +12,7 @@ trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?securit
 vless://81268ee0-35c3-4003-9882-7d3257e3aa9a@46.225.185.219:443?path=/connect&security=none&encryption=none&host=github.com&type=ws#V2rayNg_madam
 vless://Telegram@212.34.152.212:8443?security=tls&type=ws&path=/sg-lnd&host=tn1rr.qzz.io&sni=tn1rr.qzz.io&fp=chrome&encryption=none#👉🆔 @freenettir 📡 🇳🇱NL 🧭 3.6MB/s
 vless://9523a24b-f6bf-339e-9950-32829162ffc2@104.16.250.22:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=/db1024f4e56f542c&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20V2CROSS.COM
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?security=tls&amp%3Bsni=pqh23v4.hiddendom.shop&amp%3Balpn=h2&amp%3Bfp=chrome&amp%3Btype=grpc&amp%3Bencryption=none#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQTc4Qk9jcHF6YVBmcGtxUzhuYVk5@92.118.112.101:9483?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40prroxyng
@@ -501,5 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.138:2096?encryption=none&
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIyMDkuMTI2Ljg0LjE4OSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogImF1dG8iLCAiaG9zdCI6ICIyMDkuMTI2Ljg0LjE4OSIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICI+PkB2MmxpbmU6OlVTOjpVUzo6VVM6OlVTOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYIn0=
 ss://eyJhZGQiOiJtem9vbS5ieXBhc3N2cG4uc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibXpvb20uYnlwYXNzdnBuLnNpdGUiLCJpZCI6IjhlNTY3M2UwLTE5NzktNGVlMS1hOGMxLTVhMjU3ZDJjYmY0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6InQubWUvQ29uZmlnRm9yaSAgLSAgQ29uZmlnIDEyODI3OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJtem9vbS5ieXBhc3N2cG4uc2l0ZSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#https://t.me/allproconf
 ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.196.238.69:443/?plugin=v2ray-plugin;mode=websocket;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560;mux=0;skip-cert-verify=true;host=mfvpn.fuchen.indevs.in;tls;sni=Telegram🇨🇳 @WangCai2#@v2rays_ha 11566
-vless://56ac1b8b-fc37-4208-8205-83555d1cc590@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&host=Avestanew.global.ssl.fastly.net&type=xhttp#Config 1 - @lebertad
-vless://4c910b61-5229-4eb7-bdf4-692fcabf0fc1@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#@canfingV2rayNG
