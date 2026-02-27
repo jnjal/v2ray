@@ -8,6 +8,7 @@ vless://c501c66b-c6c2-456b-b604-80393b83d67f@fi.appav.online:443/?type=tcp&encry
 vless://287c459f-43d0-43c6-95ee-07afe75faa59@s4.nettool.ovh:34221?encryption=none&security=none&type=tcp&headerType=http&host=igap.net#@Mr_Emaaad+-++عِمــٰآد+|+Emٓad
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDMyOSIsImFkZCI6ImdnZ2JuaDcud3d3ODkwNjA0LmRwZG5zLm9yZyIsInBvcnQiOjQ0MywiaWQiOiIyYmZlNThmNy1kYTFkLTQ1ZGYtYWI0My03YzY2NWIyMGVlMjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImdnZ2JuaDcud3d3ODkwNjA0LmRwZG5zLm9yZyIsImFscG4iOm51bGwsInBhdGgiOiIvdDFVVjRIU3J6YldHbUp0YkJobUtiOG5Pa2ciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnZ2dibmg3Lnd3dzg5MDYwNC5kcGRucy5vcmciLCJmcCI6bnVsbH0=
 vless://eed4a583-b20e-4787-bbdb-09018156e53f@nnj.818185.xyz:443?security=tls&encryption=none&type=ws&host=nnj.818185.xyz&path=%2fhf5eEFaMIyvZXFAbvQEN#%f0%9f%87%ba%f0%9f%87%b8%20US%2094
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#🇧🇬[openproxylist.com] ss-BG
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@93.115.175.140:2053?path=/?ed=2560&telegram&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#⚡Telegram = @SOSkeyNET
 trojan://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@bgt.1x2.indevs.in:443?security=tls&sni=bgt.1x2.indevs.in&type=ws&host=bgt.1x2.indevs.in&path=%2fy1moM5CyNvYMZlzsYHmsMrnO#%f0%9f%87%ba%f0%9f%87%b8%20US%20447
 vless://9db8d24d-56f3-4339-a2de-13d80aff98dc@94.140.0.0:8880?security=none&encryption=none&host=Lgf.Www.speedtest.net.tps.debian.org.gr.websites.varzesh.savteam.gamtEl.toP.&type=httpupgrade#StoryFake
@@ -502,4 +503,3 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096/?path=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0134
 vless://e7a3b440-cf9d-4d9d-8e0a-4ba22c1b1677@194.31.223.31:443?security=reality&encryption=none&pbk=bBdwBCBws6RctTBlfpjoLfupVXf57uOMtlBdwv-YriU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=35f11427#🇩🇪 Гproxy_kafee | 🥭🔥 yandex.ru
 vless://9e308743-bc58-4109-b8a8-c2c686959c65@cvbtgh.988988.shop:443?security=tls&type=ws&host=cvbtgh.988988.shop&path=%2fI4W63AAjPkpe1D3pAvPtZpEoeO#%f0%9f%87%ba%f0%9f%87%b8%20US%20106
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@198.71.232.38:443/?plugin=v2ray-plugin;mode=websocket;path=3e96ef7d-8637-42c2-ac73-75182196e755/?ed=2560;mux=0;skip-cert-verify=true;host=mfvpn.fuchen.indevs.in;tls;sni=Telegram🇨🇳 @WangCai2#@v2rays_ha 11555
