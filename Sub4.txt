@@ -3,7 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.176.199:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#[14378]+-+Telegram+:+@configraygan
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#https://t.me/allproconf
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.65.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=2476f063981ffd92&sni=api-maps.yandex.ru#🔥Join+Telegram:@Farah_VPN🟣
+ss://0aa27781-4b2e-42e1-b369-fb91445f9931@vip-78.f-sub.cfd:1517?security=none&amp;encryption=none&amp;host=testspeed-foreign.tci.ir&amp;headerType=http&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.176.199:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#[14378]+-+Telegram+:+@configraygan
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2024
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@mci------join.outline-vpn.cloud:80?encryption=none&security=tls&type=ws&sni=public.列列男事的事列上赛男85.shop&host=public.列列男事的事列上赛男85.shop&path=/#🔥Join+Telegram:@Farah_VPN🟣
 vless://94ff07df-0a69-4720-86fe-804f4ee599ec@shaparak.ultrrasound.com:14557?encryption=none&security=none&type=ws&host=telewebion.com&path=/#https://t.me/allproconf
@@ -500,6 +503,3 @@ vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?security=tls&
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDIwOCIsImFkZCI6InZibmoub28xLmNjd3UuY2MiLCJwb3J0Ijo0NDMsImlkIjoiMDc3YTQzMzAtN2NiMC00ZDRiLThmZWItN2NlYjNjZDQzZjY5IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoidmJuai5vbzEuY2N3dS5jYyIsImFscG4iOm51bGwsInBhdGgiOiIvRGF0SDhid283WUthQUh4OGMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2Ym5qLm9vMS5jY3d1LmNjIiwiZnAiOm51bGx9
 trojan://96ogwt5m-ju3b-xhap-ea84-qo9f6ny9tt90@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 vless://a9ee8b76-6a94-4c25-9705-76d9bd38771e@afrcloud22.mmv.kr:443?security=tls&encryption=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2f35.230.79.26%3d443#%f0%9f%87%ba%f0%9f%87%b8%20US%2015
-vless://6d57becf-27f3-4136-9289-a2ae5449af83@CHAtgPT.coM:443?path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kkiihh-iran-abc-iran-1993.kinghooman.com#🔥Join+Telegram:@Farah_VPN🟣
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.17.25.173:2052?encryption=none&security=none&fp=chrome&type=ws&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy&path=/?ed#کانال تلگرام : Free_VPN_CH@
-vless://af488953-ea77-7ac1-965d-19b3cd17c213@record.persianmizban.com:443?path=/&security=tls&encryption=none&insecure=0&host=lgoin.persianmizban.com&fp=chrome&type=ws&allowInsecure=0&sni=lgoin.persianmizban.com#🔥Join+Telegram:@Farah_VPN🟣
