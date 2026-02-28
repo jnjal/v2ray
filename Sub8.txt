@@ -3,7 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOCDwn5Sl)ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#%f0%9f%87%b5%f0%9f%87%b1%20PL%2028
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOCDwn5Sl)vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@ip1.foxline.ir:443?encryption=none&security=tls&sni=day-light.global.ssl.fastly.net&fp=chrome&alpn=h3,h2,http/1.1&insecure=1&allowInsecure=1&type=ws&host=day-light.global.ssl.fastly.net&path=/?ed=2048#@V2RAYNG_FARS
+vless://9706248e-259e-4738-9cde-a3f7e11be4b8@185.208.79.133:38463?encryption=none&security=none&type=tcp&headerType=none#@V2RAYNG_FARS
+trojan://BxceQaOe@52.194.205.115:2762?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053/?security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#@v2rays_ha 11738
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.153:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20108
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.70:9020#%f0%9f%87%b5%f0%9f%87%b1%20PL%2028
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:803#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.176-0106
 vless://0c84ff26-2fc1-4db5-9e90-9eedd87903c5@exit.malkopol.org:2087?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=spartsi.poxhub.org&fp=chrome&type=ws&allowInsecure=0&sni=spartsi.poxhub.org#🔥Join+Telegram:@Farah_VPN🟣
 vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjk1NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -498,8 +503,3 @@ trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?
 vmess://eyJ2IjogbnVsbCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJhZGQiOiAiMTcyLjY3LjEzMy4xNTAiLCAicG9ydCI6IDQ0MywgImlkIjogIjM0Nzc4Nzk0LTcyZTgtNDg2Mi1iMWU3LTZlNmMzYmE4OTRiZSIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJkcnR5LjFjMC5jY3d1LmNjIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvcWxXaVdPZFBrQ1ZxQlhZV216UDVEMXZzTyIsICJ0bHMiOiAidGxzIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyAzMjQifQ==
 vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxNzIuNjcuMTU2LjgzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3MjFkM2ZkMC1lOWYxLTQwYzMtOTJjZC1kNDQwNWE0MzE5ZDYiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiampqa2kuZGRkY3QudXMuY2kiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9MRFRwVzhVSUVuVEFpTjlMTXlhIiwgInRscyI6ICJ0bHMiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDI1NyIsICJwcyI6ICJAY2hpbGxndXlfdnBuIn0=
 vless://dfe76531-d087-4129-cf5f-41975a1fa894@glob.thisiswe.uno:2083?path=/&security=tls&alpn=http/1.1&encryption=none&host=jamal.thisiswe.uno&fp=chrome&type=ws&sni=jamal.thisiswe.uno#@FarazV2ray
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.31:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2092
-trojan://telegram-id-directvpn@52.29.103.93:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh63wn4ewIEhLIDQiLCJhZGQiOiJuMTc2MTIxNDkxOS5tdjd3aC50ZWNoIiwicG9ydCI6NDQzLCJpZCI6ImM1OTJmMDQwLWZhZmYtNDdkYy1hNDY0LTliY2NmMmRkNGU3YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NjEyMTQ5MTkubXY3d2gudGVjaCIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGx9
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#%f0%9f%87%b1%f0%9f%87%bb%20LV%201
