@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOCDwn5Sl)ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTQ3eVlPb0hhN0ZnSXN5cVE4MnR3@87.228.9.43:1080#@Trick_mobil
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOCDwn5Sl)vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=/57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#@v2rays_ha 11714
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTQ3eVlPb0hhN0ZnSXN5cVE4MnR3@87.228.9.43:1080#@Trick_mobil
 vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
 vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@143.47.237.215:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f&type=tcp&headerType=none#@en_vpn/کانفیگ های بیشتر
@@ -502,4 +503,3 @@ ss://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=%2Fws-vless%2F&
 vless://a9afd24e-2f6c-42fb-8b60-ccdbcc0aaeb2@185.241.195.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=nl.reality.tv123.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20275
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDkyIiwiYWRkIjoibWtvLjg1OTg4Ni54eXoiLCJwb3J0Ijo0NDMsImlkIjoiYjAyMDg2NWItNzQwNC00ODk0LWJhNjUtYTc0MTRiMTBjZGEzIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibWtvLjg1OTg4Ni54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2JvV1VWYVUwc3hyTnRGU2RPUGpxU2M3ZnplSnIiLCJ0bHMiOiJ0bHMiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
-vless://17b16eb9-c1d0-4c12-8520-0b400567d8e4@s6.laptopstock7.com:9976?security=none&type=tcp&headerType=http&path=/&host=#🔥Join+Telegram:@Farah_VPN🟣
