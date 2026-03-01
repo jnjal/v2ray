@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&encryption=none&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2f1.1&fp=chrome&type=ws&headerType=none&host=vvvbbbnhj.taipei102.indevs.in&path=%2f391sfnZ2bBhmKb8nOkg&allow_insecure=true#%f0%9f%87%ba%f0%9f%87%b8%20US%2087
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://6202b230-417c-4d8e-b624-0f71afa9c75d@36.50.90.241:47790/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&encryption=none&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http%2f1.1&fp=chrome&type=ws&headerType=none&host=vvvbbbnhj.taipei102.indevs.in&path=%2f391sfnZ2bBhmKb8nOkg&allow_insecure=true#%f0%9f%87%ba%f0%9f%87%b8%20US%2087
 vless://45a28c16-d212-4082-9eff-4f232edaa847@naggout.oblivionspark.com:1094?security=&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://8e0d168b-f984-07d0-865f-88b9a46fb48f@46.235.186.203:443?path=//&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&allowInsecure=0&sni=lk-cdn.deploy-assure.ru#@chillguy_vpn
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.228:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20207
@@ -502,4 +503,3 @@ vless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.125.18.51:39781?security=none&enc
 vmess://ewogICAgImFkZCI6ICIyMy4yNy4yOC4xNSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiODdjNTA3MDItNzFjZi00N2NhLWFlZTQtYWIzMDRkMjg4MzllIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDU3MzUsCiAgICAicHMiOiAi8J+HsvCfh75NWS0yMy4yNy4yOC4xNS0wMjIxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://eRpdRjrfr9a1bThuOA==@tep--1roadlinehook.zagfaservers.com:20000#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.16:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20122
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.152.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔥Join+Telegram:@Farah_VPN🟣
