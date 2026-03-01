@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.26:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2061
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://52737d41-b5d4-4cf2-a28b-d70e42a6e82b@m2.masih1-ah.site:57070?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🔥 Telegram: @wiki_tajrobe
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.26:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2061
 vless://4ca14b7d-7719-4756-df72-905e9cf37a73@3.71.111.224:443?security=&encryption=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiAiZGwwMS5hcm1kLmZ1biIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWE5OGZjMmMtMDFhOC00MDQwLTg2YzktZDE4M2FkOWRjZDE2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 ss://a5b22acc-bbec-4f8d-9bb8-e6bb2d973730@chatgpt.com:8443?path=%2F&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=randomized&amp;type=ws&amp;allowInsecure=0&amp;sni=mis.shevid.click#🔥Join+Telegram:@Farah_VPN🟣
@@ -24,6 +25,7 @@ vless://636dac2e-9a58-49a6-84f5-313a03761131@158.160.223.36:8443?security=realit
 vless://61b1f846-6c19-4134-8aa9-0acbc3c1648f@example.com:8080?security=none#%40DSR_TM
 vmess://ewogICAgImFkZCI6ICJUTV9BWkFSQkFZSkFCMS5TRVJWLjkucGFnRVMuREVWIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsCiAgICAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjYuNDcuNTYtMDI4MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.254:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20189
+vless://b615fe48-fea2-428b-a955-995f726e5788@51.250.69.188:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0&spx=/#🇷🇺[openproxylist.com] vless-RU
 vless://429af73b-c1bd-4c46-8f8e-6accdbdcf628@fl-modx.webedg.net:443?security=reality&encryption=none&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl-modx.webedg.net#saeedi761
 vless://4551ccd5-0ff3-4064-8478-28182495661f@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%40DSR_TM%20%F0%9F%A6%A0%20join%20telegram
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.151:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany.scroogethebest.com&sid=4fa44664f6a566d3#🔥Join+Telegram:@Farah_VPN🟣
@@ -149,6 +151,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#%f0%9f%87%b0%f0%9f%87%bc%20KW%204
 vless://7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f@18.184.59.197:443?security=&encryption=none&headerType=&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.77:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2057
+vless://adcd165a-e934-48af-95ad-8afc82261e8b@178.154.202.254:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#🇩🇪[openproxylist.com] vless-DE
 vless://06442da2-c71e-4f5d-b2f3-e327b3f515b5@cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1087?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@Vip_fragment_v2ray
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDM5MCIsImFkZCI6Imhqay5mcmVldnBuMjAyNy5kcGRucy5vcmciLCJwb3J0Ijo0NDMsImlkIjoiNzIxZDNmZDAtZTlmMS00MGMzLTkyY2QtZDQ0MDVhNDMxOWQ2IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiaGprLmZyZWV2cG4yMDI3LmRwZG5zLm9yZyIsImFscG4iOm51bGwsInBhdGgiOiIvTERUcFc4VUlFblRBaU45TE15YSIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjpudWxsfQ==
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.231:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20104
@@ -410,9 +413,11 @@ vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://e4824791-cd81-43fa-81f5-5bac83eb8566@89.169.130.209:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=qlBuG9tkbHHhJOc7RIL4khlYZB-4UD3SRHTiA09BNzA&sid=20d1a5ca&type=tcp&headerType=none#https://t.me/allproconf
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2019
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.106.175:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.106.175-0207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOTU0YmQ2ZGQ3NGE3ZjQ4@54.37.78.130:11201#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20SS%20%7C%20%40v2ray_youtube%20%231
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.41:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2011
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.62:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2017
 vless://dfab83c0-56c6-4e0a-8bdc-4ee6dda769f3@172.67.196.97:8080?security=none&type=ws&host=v2ray.n.bimax.ir.iranhost.com.bishtarazyek.com.speedtest.net.zula.ir.ncba.iR.&path=/V2ray.motorcycles?ed=2048#🔥Join+Telegram:@Farah_VPN🟣
+vless://7bddd0a1-aefb-41e0-8e05-96456186c093@51.250.14.48:7445?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&spx=/#🇲🇩[openproxylist.com] vless-MD
 vless://0341d8f2-99e0-4f6c-af0a-345ac26815cf@91.99.218.107:51269?encryption=none&type=grpc&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2014
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.41:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🌏37@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLRVdrMzJ2c09IMlI2Qkd5U3pmcVlJ@216.105.168.18:443#🔥Join+Telegram:@Farah_VPN🟣
@@ -498,8 +503,3 @@ vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDM2NyIsImFkZCI6ImtpOWkuZGRkY3QudXMu
 vless://9f9b2ba3-77c1-400f-9b72-76b9b0829e51@tty34.003330333.xyz:443?security=tls&encryption=none&sni=tty34.003330333.xyz&fp=chrome&type=ws&host=tty34.003330333.xyz&path=%2fVUEhrz1FFlVljj0Fy6bojk&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%20341
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDE5NSIsImFkZCI6Im1raXV5LjF4OS5pbmRldnMuaW4iLCJwb3J0Ijo4MCwiaWQiOiI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Im1raXV5LjF4OS5pbmRldnMuaW4iLCJhbHBuIjpudWxsLCJwYXRoIjoiL2lTUldTS1VKS051WHZWenNZSG1zTXJuTyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2086?encryption=none&host=Xtls.mehrsazi.ir&path=/&security=none&type=httpupgrade#🌏31@oneclickvpnkeys
-vless://77d18334-3ce5-442f-8bba-d4aa0a53f051@45.136.128.184:443?security=reality&encryption=none&pbk=08TPrmO6ClQQvBeWPVKuotkRZ_WKD6jL3aFeeRlVVVM&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=0bee#🔥Join+Telegram:@Farah_VPN🟣
-vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.vector-reactor.ir:443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=app.vector-reactor.ir&fp=chrome&type=ws&allowInsecure=1&sni=app.vector-reactor.ir#Telegram: @proxyiranip سیشل 🇸🇨 141
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@82.22.40.109:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#@v2raybaaz 🍋‍🟩
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20293
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDE5NCIsImFkZCI6Impta2cuODE4MTg1Lnh5eiIsInBvcnQiOjQ0MywiaWQiOiJlZWQ0YTU4My1iMjBlLTQ3ODctYmJkYi0wOTAxODE1NmU1M2YiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJqbWtnLjgxODE4NS54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NJOVh0S3ZqaUl5dlpYRkFidlFFTiIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9
