@@ -3,7 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0141
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)vless://d6e51590-555b-400a-9fda-3e091bf84176@bia.gdsrguydsrghj.ir:1010?encryption=none&security=none&type=tcp&headerType=http#melli_shekan1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2016
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.164-0115
+vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=cdn.discordapp.com#@TehranFreeVPN - FreeProxy
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0141
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#%f0%9f%87%bb%f0%9f%87%b3%20VN%20144
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDE1MCIsImFkZCI6Im1ta2ouZGRkYy5kZTUubmV0IiwicG9ydCI6NDQzLCJpZCI6IjcyMWQzZmQwLWU5ZjEtNDBjMy05MmNkLWQ0NDA1YTQzMTlkNiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Im1ta2ouZGRkYy5kZTUubmV0IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9MRFRwVzhVSUVuVEFpTjlMTXlhIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.31:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20106
@@ -79,7 +83,6 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vmess://eyJhZGQiOiJ1c2VyNTUwNy5sb2dpbi5rYXJpbTIwMDAuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IlB1TGFWUE4uTmV0IiwiaWQiOiJhYTg0NThlOS0xOTgzLTQ5ZTItYTQyYy0yOWZiOWVhNDUzZjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDM2IiwicHMiOiJDb25maWcgNSAtIEBsZWJlcnRhZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDEzOSIsImFkZCI6ImRydHkuMWMwLmNjd3UuY2MiLCJwb3J0Ijo0NDMsImlkIjoiMzQ3Nzg3OTQtNzJlOC00ODYyLWIxZTctNmU2YzNiYTg5NGJlIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiZHJ0eS4xYzAuY2N3dS5jYyIsImFscG4iOm51bGwsInBhdGgiOiIvcWxXaVdPZFBrQ1ZxQlhZV216UDVEMXZzTyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptemVNWUJKWXA0Qm83bkExcVlMdnY3UUc3M2lndEFBODVudDRwcjhBOW50eDJxaERmWWdSdGlKN2lIN1ZyY25lUUtObXR2cGJzdnZGS1BhVUFUWUVMaTE4aUg1NlR0cjQ=@download.riferoser.icu:56594#%f0%9f%87%b9%f0%9f%87%bc%20TW%201
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJoamsuNm5vLmNjd3UuY2MiLCJwb3J0IjoiNDQzIiwidHlwZSI6Ii0tLSIsImlkIjoiNWY2YzNmOTItNzIyMC00Mjc1LWIzNGQtNTdjMDRkYjNmOTY3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9LbnVUNFhCVXVjWGtPU09OQm1zIiwiaG9zdCI6Imhqay42bm8uY2N3dS5jYyIsInRscyI6InRscyJ9
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDUzIiwiYWRkIjoiaG55dS44MTgxODUueHl6IiwicG9ydCI6NDQzLCJpZCI6ImVlZDRhNTgzLWIyMGUtNDc4Ny1iYmRiLTA5MDE4MTU2ZTUzZiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6ImhueXUuODE4MTg1Lnh5eiIsImFscG4iOm51bGwsInBhdGgiOiIvY0k5WHRLdmppSXl2WlhGQWJ2UUVOIiwidGxzIjoidGxzIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
 vless://eed4a583-b20e-4787-bbdb-09018156e53f@bdggh.9jj.ccwu.cc:443?security=tls&encryption=none&sni=bdggh.9jj.ccwu.cc&fp=chrome&type=ws&host=bdggh.9jj.ccwu.cc&path=%2fhf5eEFaMIyvZXFAbvQEN&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2046
 vless://092c0e5e-0677-44a1-ae52-2174f3749d68@teb.parsdownloadco.ir:29294?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#@AkbarConfig👈کانفیگ روزانه در
@@ -500,6 +503,3 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDEwOSIsImFkZCI6Im1ta2lvLnRjNi5jY3d1LmNjIiwicG9ydCI6NDQzLCJpZCI6IjE3OThiMTRiLWFlZTAtNDAwOC1iYTlhLTJlNTM4Nzc3NjFiNCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Im1ta2lvLnRjNi5jY3d1LmNjIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9rRks5TzVjbDhaeWN5cnhjSldOVkZDMjEiLCJ0bHMiOiJ0bHMiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#%f0%9f%87%a6%f0%9f%87%b7%20AR%201
 vless://28904f19-44c3-4bf4-8ab6-304fe22ce0dc@grmn.civilmen.net:80?security=none&alpn=http/1.1&encryption=none&host=myket.ir&headerType=http&fp=chrome&type=tcp&sni=myket.ir#@AkbarConfig👈کانفیگ روزانه در
-vmess://eyJhZGQiOiAieDEubWVocmFkc2VydmljZS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImU5YzkxM2MzLWQ2ZjUtNDJjMi1iODc5LTA2OGEwYjQ0ZWE5ZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQ1MSIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?security=none&encryption=none&type=grpc&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2066
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#%f0%9f%87%b2%f0%9f%87%a9%20MD%201
