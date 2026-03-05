@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://a800f19a-4a0f-4d57-969a-2e866553ee77@ips.md-teach.com:32075?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-vless://26524cce-d514-4014-a426-365fb266a14d@135.125.133.217:2053?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#🇨🇦
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://26524cce-d514-4014-a426-365fb266a14d@135.125.133.217:2053?&security=tls&fp=random&sni=cyuxj212pnq.chinat.indevs.in&type=ws&headerType=none&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#🇨🇦
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.221:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2079
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y=@46.249.109.128:56594#%f0%9f%87%b9%f0%9f%87%bc%20TW%203
 vmess://eyJhZGQiOiAiNjUuMTA5LjE2MC45OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImdvb2dsZS5jb20iLCAiaWQiOiAiMmFhYzc3ZGUtYjNlNC00MDE3LTg0NWMtY2ExMzgwZjJlOGQwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWxlZ3JhbS1pZC1AcHJpdmF0ZXZwbnMiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
@@ -503,3 +502,4 @@ vless://c05589f6-9e1a-491e-a2eb-7af548676e68@goldalsa.netmeli.com:8443?security=
 vless://5cd9792c-9ad5-499f-be6a-0f872dd06b07@emarat2.digionline2.com:4003?security=&encryption=none&headerType=http&type=tcp#%40filembad
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh.www890604.dpdns.org:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&host=gggbnh.www890604.dpdns.org&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#%f0%9f%87%ba%f0%9f%87%b8%20US%20267
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.113:8888#🔥Join+Telegram:@Farah_VPN🟣
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@bnhju.dddct.us.ci:443?security=tls&sni=bnhju.dddct.us.ci&alpn=http%2f1.1&type=ws&host=bnhju.dddct.us.ci&path=%2f4e633j8uZI4BWzwNzcYz&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%20129
