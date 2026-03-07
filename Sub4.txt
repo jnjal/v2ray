@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&security=tls&encryption=none&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2039
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@209.102.207.205:443?allowInsecure=1&encryption=none&security=tls&sni=UtZ3i6X5i6.InDoSoXr.InFo&type=grpc#@AkbarConfig👈کانفیگ روزانه در
+vless://45efe5cb-47ae-4b2d-ad3c-42c7722fd9fd@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#Config 3 - @lebertad
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?flow=xtls-rprx-vision&security=tls&encryption=none&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2039
 vless://879ffe2f-d6cd-48b7-b7ec-458fb4b66148@sv6n.tsteamzd.top:10006?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@V2rayAlpha-19
 vless://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?security=&encryption=none&host=bama.ir&headerType=http&type=tcp#وصل شدی بیا کانالمون@ConfigV2RayNG
 ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@154.17.31.189:18829#%F0%9F%87%BA%F0%9F%87%B8US-154.17.31.189-0078
@@ -501,5 +503,3 @@ vless://002f7f87-e75d-fd8e-a5e0-3974a7bd5ec2@titan.socialxxmedia.pro:1937?securi
 ss://816d0dc6-2081-48b0-baea-0c8f1852640b@185.126.11.183:8443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://f5bb39a2-c997-4381-baf0-307ac3bd3464@all.mdvpnsec.cfd:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=MdVpnSec-V2rayNg-Free.snappfoodd.site&amp;type=ws&amp;sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#🔥Join+Telegram:@Farah_VPN🟣
 vless://1bc7bd97-679c-4ebb-8eea-3a048c3457cf@84.200.33.52:7070?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#وصل شدی بیا کانالمون@ConfigV2RayNG
-vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.105.19:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM&security=reality&sid=5cae63084b3281f3&sni=api-maps.yandex.ru&type=tcp#@AkbarConfig👈کانفیگ روزانه در
-vless://419be96a-f900-4b0a-aecd-9402bddcfc4c@62.60.146.14:16020?encryption=none&type=tcp&headerType=http&path=/&host=igap.net#🇳🇱 Netherlands ( TUN 🇮🇷 )

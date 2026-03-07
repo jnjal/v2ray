@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)vless://dfb7970f-34db-4f57-9078-c19a452a2ace@vip.bitanick.ir:5040?security=none&allowInsecure=0&encryption=none&type=tcp&host=sheypoor.com&path=/&headerType=http#@AkbarConfig👈کانفیگ روزانه در
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)vless://facbfb6d-873b-4faa-f998-945fcb03674c@94.183.149.205:8882?path=/&security=none&encryption=none&type=ws#@AkbarConfig👈کانفیگ روزانه در
+vless://dfb7970f-34db-4f57-9078-c19a452a2ace@vip.bitanick.ir:5040?security=none&allowInsecure=0&encryption=none&type=tcp&host=sheypoor.com&path=/&headerType=http#@AkbarConfig👈کانفیگ روزانه در
 ss://3811e832-817b-48b8-cd1f-b650439ce79b@sites.mtanaco.top:443?security=none&amp;encryption=none&amp;host=s1.mediaad.org&amp;headerType=http&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?path=/?ed&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#%f0%9f%87%ba%f0%9f%87%a6%20UA%202
@@ -502,4 +503,3 @@ vless://047d94e3-f07b-4754-918e-88b8faeafcd0@custom2.rezaedvr.shop:43433?securit
 vless://40634014-2458-4ddd-9125-b0023548f770@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=none&type=tcp&headerType=http&path=/&host=rubika.ir,igap.net,splus.ir,skyroom.online#Telegram:@config_proxy 🔥
 vless://cc604606-3cf8-4d6a-a82b-6cd9ddebdb69@g42727cpj8.qa024r0n895i26qzk8y.realytag.com:891?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@VPN_PASARGAD
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#فیلترشکن رایگان👈vpnowl@
-vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--10

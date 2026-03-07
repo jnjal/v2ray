@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@njki.dddc.de5.net:443?security=tls&sni=njki.dddc.de5.net&alpn=http%2f1.1&type=ws&host=njki.dddc.de5.net&path=%2fFYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%20133
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)vless://dbd9b4a9-2e0e-4236-92f0-bd460d9eacf1@94.183.241.82:1000?security=none&encryption=none&headerType=none&type=tcp#@V2rayAlpha--10
+trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@njki.dddc.de5.net:443?security=tls&sni=njki.dddc.de5.net&alpn=http%2f1.1&type=ws&host=njki.dddc.de5.net&path=%2fFYzt5jjXXYWmzP5D1vsO&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%20133
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSFQxb08xZDJJc1pNMDFYWk14aU0y@195.74.86.176:17828#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@V2rayNG3
 vless://d463f08d-10ee-449a-82fe-437795d95ae4@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=none&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#@Proxyiranip
@@ -176,6 +177,7 @@ vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDgyIiwiYWRkIjoiYjYuZGRkY3QudXMuY2kiLCJwb3J0Ijo0NDMsImlkIjoiNGVkNGFjNDEtNGI1Ni00MmM0LWIzMWMtNGQ3YmMzNmY3NGNlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJiNi5kZGRjdC51cy5jaSIsImFscG4iOm51bGwsInBhdGgiOiIvRTNNRWN0b0t5WmtJNEJXendOemNZeiIsInRscyI6InRydWUiLCJzbmkiOiIiLCJmcCI6bnVsbH0=
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@31.57.28.209:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&security=reality&sid=6b374e33af12fd1e&sni=retn.net&type=tcp#@AkbarConfig👈کانفیگ روزانه در
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#%40Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@media.mothyleela.cfd:40521#🔥Join+Telegram:@Farah_VPN🟣
 vless://fc3b37e3-01ba-403c-83c0-22213c7a83d3@33kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:702?security=none&type=tcp&headerType=http&path=/&host=rubika.ir,igap.net,splus.ir,skyroom.online#Config 4 - @lebertad
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@150.230.33.247:19131?&security=tls&fp=random&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=%2Fdanfeng#🇺🇸
@@ -501,5 +503,3 @@ vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDE0MyIsImFkZCI6InU2Ny5kZGRjLnVzLmNp
 vless://4bccea6b-8130-4193-9669-1d34c26ceeec@185.213.10.99:2082?security=&encryption=none&headerType=none&type=tcp#@VPN_PASARGAD
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh.www890604.dpdns.org:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&host=gggbnh.www890604.dpdns.org&path=%2f2cO5FH0xUmT9oqnbBhmKb8nOkg#%f0%9f%87%ba%f0%9f%87%b8%20US%20125
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh63wn4ewIEhLIDQiLCJhZGQiOiJuMTc2MTIxNDkwNC53cGcyNy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiN2Y2ZjY0YWUtMzc3OC00MzRjLWFkZmMtOTVjYjY3ZWU4YjczIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJuMTc2MTIxNDkwNC53cGcyNy54eXoiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im4xNzYxMjE0OTA0LndwZzI3Lnh5eiIsImZwIjpudWxsfQ==
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@209.102.207.205:443?allowInsecure=1&encryption=none&security=tls&sni=UtZ3i6X5i6.InDoSoXr.InFo&type=grpc#@AkbarConfig👈کانفیگ روزانه در
-vless://45efe5cb-47ae-4b2d-ad3c-42c7722fd9fd@1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:700?security=none&encryption=none&host=rubika.ir&headerType=http&type=tcp#Config 3 - @lebertad
