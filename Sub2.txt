@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)vless://f9cdb2e1-939c-4470-b322-14b7313dec48@109.172.55.157:19547?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=-zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI&sni=yandex.ru&sid=47ee5c592c1672cf#[🇫🇷] [vl-re-ra] [260309-174514.688]
-vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sni=yahoo.com&sid=1aab45#[🇫🇷] [vl-re-ra] [260309-174330.708]
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sni=yahoo.com&sid=1aab45#[🇫🇷] [vl-re-ra] [260309-174330.708]
 vless://d5d52c15-f963-42b8-971b-613fc9c5e7e3@109.172.55.220:58198?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE&sni=yandex.ru&sid=2c8a6793b9de7014#[🇫🇷] [vl-re-ra] [260309-174236.068]
 vless://add14a5b-f648-4423-8a1f-8b8f54c0daef@195.154.200.13:17401?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=IXcXrT_Y0ATTZlGOhPnSmKo-cuGr4yMKV9Rz4-nA3yU&sni=itunes.apple.com&sid=8ef4455ba637425b#[🇫🇷] [vl-re-ra] [260309-173939.674]
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&sni=yandex.ru&sid=34d8e80d8fa40501#[🇫🇷] [vl-re-ra] [260309-173537.012]
@@ -503,3 +502,4 @@ vless://00000000-0000-4000-8000-000000000000@147.45.68.252:8082?allowInsecure=1&
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2096?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 ss://star@nete.khode.elon.musk#🔥Join+Telegram:@Farah_VPN🟣
 vless://84b5a48a-4c69-493c-87cb-09cbdfa7a450@45.15.178.110:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ign.dev&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🔥Join+Telegram:@Farah_VPN🟣
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:3057?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
