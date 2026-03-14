@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://85f00579-c69b-49a8-9daa-fcadc9d1a548@plesk.iranwiki.mom:55002?path=/&security=none&encryption=none&host=igap.net&type=ws#@confignetmeliina
-vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@104.207.151.11:8443?path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433&security=tls&alpn=h3&encryption=none&insecure=0&host=6745d1ce.cloudorg.ccwu.cc&type=ws&allowInsecure=0&sni=6745d1ce.cloudorg.ccwu.cc#[21847] - Telegram : @V2All
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://69ab6d73-6db3-1c80-4eb6-2b91420c3944@104.207.151.11:8443?path=/socks5=4b2c7676:6f0f4cbba5bb@38.111.30.111:26433&security=tls&alpn=h3&encryption=none&insecure=0&host=6745d1ce.cloudorg.ccwu.cc&type=ws&allowInsecure=0&sni=6745d1ce.cloudorg.ccwu.cc#[21847] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#%f0%9f%87%a7%f0%9f%87%b7%20BR%205
 trojan://d6zr0e5n-pb7r-th12-2mka-znw2be9hobpo@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 vmess://eyJhZGQiOiAicXZ4YnR4LnVob21kZXguc2hvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJxdnhidHgudWhvbWRleC5zaG9wIiwgImlkIjogImFhMzMzYWU4LWQ1MzgtNDBlMy1hMmFmLTlkNzlhZWI1M2JlZiIsICJpbnNlY3VyZSI6ICIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.137.202:8443?path=/?ed=2560&Telegram🇨🇳
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.87.154.147:2053?type=ws&security=tls&path=/danfeng&sni=snippet.sh21.eu.org&fp=chrome#@Trick_mobil
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.150.152.41:5000#🔥Join+Telegram:@Farah_VPN🟣
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#🔥Join+Telegram:@Farah_VPN🟣
