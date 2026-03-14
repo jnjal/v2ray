@@ -3,8 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.152:809#%F0%9F%87%B8%F0%9F%87%ACSG-81.90.189.152-0132
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%f0%9f%87%b3%f0%9f%87%b1%20NL%204
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%f0%9f%87%b3%f0%9f%87%b1%20NL%204
 vless://4fd2d5f6-d417-07d0-9331-e20afde2fcd2@109.120.190.191:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vmess://eyJhZGQiOiJuMTc1MzU5ODQ0OC43NHF4di50b3AiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzU5ODQ0OC43NHF4di50b3AiLCJpZCI6IjNjZDZmODQ5LTA3OGUtNGRhOS04MDgwLWEyNzkxYjUxYjc2NiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im4xNzUzNTk4NDQ4Ljc0cXh2LnRvcCJ9
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4emIENBIDEiLCJhZGQiOiIxNS4yMzUuNDEuMjAwIiwicG9ydCI6ODAsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiMTUuMjM1LjQxLjIwMCIsImFscG4iOm51bGwsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGx9
@@ -411,6 +410,7 @@ vmess://eyJhZGQiOiIxNjIuMTkuMjQ4LjIzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.42:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20305
 vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@188.114.98.0:80?path=/ed=2560&security=none&encryption=none&host=turbooserver-roeg-fastly.flinkywoo.com&type=ws#@freenettir
 vless://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?security=none&allowInsecure=0&encryption=none&type=tcp&host=filmnet.ir&path=/&headerType=http#V2rayng_Fast
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?allowInsecure=1&encryption=none&host=a1d.maxriser.ir&path=/&security=tls&sni=a1d.maxriser.ir&type=ws#🇩🇪[openproxylist.com] vless-DE
 vless://d5604db8-1f31-403d-a315-d8bafc70f7d2@bbg.66k.ccwu.cc:443?security=tls&encryption=none&type=ws&host=bbg.66k.ccwu.cc&path=%2f1Aeip9N4V6m20grcpQ8L96b#%f0%9f%87%ba%f0%9f%87%b8%20US%2022
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IFVTIDY2IiwiYWRkIjoibWtqaHUuMm5uLmNjd3UuY2MiLCJwb3J0Ijo0NDMsImlkIjoiNGU0NWMxYjQtOTEwNy00NWRkLTk5OTUtY2RmN2NiYjQ0ZDlkIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibWtqaHUuMm5uLmNjd3UuY2MiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2lTUldTS1VKS051WHZWenNZSG1zTXJuTyIsInRscyI6InRscyIsInNuaSI6IiIsImZwIjpudWxsfQ==
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.43:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2046
