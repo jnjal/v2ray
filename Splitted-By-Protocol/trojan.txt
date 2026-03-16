@@ -1,3 +1,30 @@
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.191.185-0239
+trojan://f389ed926e512e15f382dc3804029474@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-1740
+trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0265
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0279
+trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.21-0267
+trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0258
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0263
+trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0259
+trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.77.228.115-0240
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0268
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0202
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0281
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18463?security=tls&sni=$$hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-1601
+trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#hamedp71-4-🇺🇸
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-14-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-17-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-19-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#hamedp71-22-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-25-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?allowInsecure=0&sni=www.nintendogames.net#hamedp71-26-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-29-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-33-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-34-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-38-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-41-🇯🇵
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-45-🇯🇵
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#🇪🇸%20Spain%20-%201
 trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=www.gpt123.one&amp%3Binsecure=1&amp%3Btype=raw&amp%3Bheadertype=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 trojan://humanity@srv1.khatibirepair.ir:443?type=ws&amp%3Bsecurity=tls&amp%3Bsni=www.creationlong.org&amp%3Bhost=www.creationlong.org&amp%3Bpath=%252fassignment#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40mpproxy%20%232
 trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bhost=028.electrocellco-cf-028.workers.dev&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=028.eLECtRocEllco-Cf-028.worKErS.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
@@ -16,8 +43,6 @@ trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bin
 trojan://humanity@104.21.40.34:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpn_ioss%20%231
 trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpn_ioss%20%232
 trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=/api/live/stream/region-de/feed&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bfp=random&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=persiancdn.top#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnv2raytop%20%231
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%3E%3E%40v2nodes%3A%3ALT
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 trojan://f389ed926e512e15f382dc3804029474@18.182.10.16:921?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@95.40.9.23:18503?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
@@ -53,28 +78,8 @@ trojan://f389ed926e512e15f382dc3804029474@13.113.193.32:4920?allowInsecure=0&sni
 trojan://f389ed926e512e15f382dc3804029474@13.115.145.176:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
 trojan://BxceQaOe@95.40.46.74:50446?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?type=raw&headerType=none&security=tls#🇳🇱[openproxylist.com] trojan-NL
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#🇰🇷[openproxylist.com] trojan-KR
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#🇦🇱[openproxylist.com] trojan-AL
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹[openproxylist.com] trojan-LT
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?security=tls&sni=www.nintendogames.net#🇺🇸[openproxylist.com] trojan-US
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net#🇺🇸[openproxylist.com] trojan-US
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.191.185-0239
-trojan://f389ed926e512e15f382dc3804029474@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-1740
-trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0265
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0279
-trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.21-0267
-trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0258
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0263
-trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0259
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.77.228.115-0240
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0268
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0202
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4NO-80.173.231.254-0281
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18463?security=tls&sni=$$hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-1601
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%3E%3E%40v2nodes%3A%3ALT
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayProxy
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2Line
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9A%A1%E2%9A%A15
@@ -93,20 +98,14 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&ho
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2SHOP_GAMING1011%20%F0%9F%AA%A9
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2SHOP_GAMING1011%20%F0%9F%AA%A9
 trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#2%F0%9F%93%B1%20%40unvisible_drops
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#hamedp71-4-🇺🇸
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-14-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-17-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@58.152.110.216:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71-19-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#hamedp71-22-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-25-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.236.32:5552?allowInsecure=0&sni=www.nintendogames.net#hamedp71-26-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:1334?allowInsecure=0&sni=www.nintendogames.net#hamedp71-29-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-33-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-34-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-38-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71-41-🇯🇵
-trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-45-🇯🇵
-trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#🇪🇸%20Spain%20-%201
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?type=raw&headerType=none&security=tls#🇳🇱[openproxylist.com] trojan-NL
+trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#🇸🇬[openproxylist.com] trojan-SG
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?type=tcp&security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&allowInsecure=1#🇰🇷[openproxylist.com] trojan-KR
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#🇦🇱[openproxylist.com] trojan-AL
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=8443.golden-cards.me#🇱🇹[openproxylist.com] trojan-LT
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:3057?security=tls&sni=www.nintendogames.net#🇺🇸[openproxylist.com] trojan-US
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://telegram-id-privatevpns@13.37.37.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.38.144.105:22222?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@bbbnhju.1xa.ccwu.cc:443?security=tls&sni=bbbnhju.1xa.ccwu.cc&type=ws&host=bbbnhju.1xa.ccwu.cc&path=%2f7vMsF4VUuJ3dX414bl#%f0%9f%87%ba%f0%9f%87%b8%20US%2060
