@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.206:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2068
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://6b9ed73a-f04d-4b5d-a760-2661fa7f6e43@185.112.59.16:8446?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0&security=reality&sni=max.ru&type=tcp#🚜47@oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.206:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2068
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.233.205:2053?type=ws&security=tls&sni=sni.111000.indevs.in&host=sni.111000.indevs.in&path=/?ed=2560&fp=chrome#🇩🇪
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@139.64.165.154:5000#@Trick_mobil
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@152.228.135.72:8443?security=tls&type=ws&path=%2Fdanfeng&host=snippet.danfeng.eu.org&sni=snippet.danfeng.eu.org&fp=random#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2037
@@ -502,4 +503,3 @@ vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=&encr
 vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20234
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@104.18.38.250:8443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=/proxyip=sjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#10🚜@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#%F0%9F%87%A9%F0%9F%87%AADE-38.60.250.107-0308
