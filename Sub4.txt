@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://6492fd55-4ab8-4da5-bed4-83e5c3f5b178@www.goldenshopify.ir:2031?encryption=none&security=none&type=tcp&headerType=none#@Raiv2mmr
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.127.218.13:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#•⭐ @wedbazTel
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#•⭐ @wedbazTel
 vless://446879b9-710c-431b-94d0-f6b4c18a528a@91.196.32.225:7433?encryption=none&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&security=reality&sid=7dbf7d3233971d5c&sni=max.ru&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@v2rayngzendegimamad🕊️
 vmess://ewogICAgImFkZCI6ICI0Ny4yNDUuNDIuOTIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLAogICAgImlkIjogIjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC00Ny4yNDUuNDIuOTItNjkwNyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -503,3 +501,5 @@ vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=/Erkw2ygbmW
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%201
 vless://15c2491a-01d2-4d36-b4c4-7095682368cd@braze.com:443?path=/KCoBBKhVhQEtbuL9Nwd&security=tls&encryption=none&alpn=h2&host=sublinkhiddifyc1.makingirangreatagain.com&fp=chrome&type=ws&sni=sublinkhiddifyc1.makingirangreatagain.com#🩵+@Azarakhsh_Proxy+🙏🏼
 vless://e8073e90-8d4d-4be7-f9b1-c36be7e689af@151.101.128.223:80?mode=auto&path=/&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#Telegram : @V2ynpv (شماره 25)
+vless://65964037@tworahybec2@tworahy4fd7@tworahyb7c8@tworahy053047f48034@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#%f0%9f%87%ba%f0%9f%87%b8%20US%204
