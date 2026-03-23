@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.134:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20217
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.217:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2082
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.134:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20217
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJjNy42MjA3MjAueHl6IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoiYXV0byIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsInRscyI6InRscyJ9
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@217.30.10.70:9070#%f0%9f%87%b5%f0%9f%87%b1%20PL%2010
 vless://26c9778e-ccc8-4c16-85a0-9b4f34a29bc9@rk4no3.cdnhoo.com:80?path=%2Fget&security=none&encryption=none&type=ws#-%20%40KW1VPN%20%7C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7
@@ -502,4 +503,3 @@ vless://8dcb7893-9191-4c71-b92a-4c3e52142030@vip.younetwork.ir:20900?type=tcp&en
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.4:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20199
 vless://9c42aa2d-3e57-4ce1-ba85-0b11f685dd6b@45.136.126.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pRvemrnDzUPhjXIYQC933GlpoomcZI9LwL4DPW5-aQc&security=reality&sid=b93d114f6a85e9&sni=max.ru&type=tcp#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.189.142:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.189:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20127

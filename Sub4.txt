@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.178:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20163
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNCDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.189:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20127
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.178:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20163
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.24:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%206
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6jwn4e/IENaIDciLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6MTgwLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
 vless://09ee758e-47c4-4e93-b81d-a2c4b8580d9b@IR-FanAva5-AlphaOmega.AlphaOmegaVIP.IR:500?security=none&encryption=none&host=www.telewebion.ir.&headerType=none&type=tcp#drovone
@@ -182,6 +183,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26736#%f0%9f%87%b5%f0%9f%87%b0%20PK%205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#%f0%9f%87%bb%f0%9f%87%b3%20VN%20235
 ss://YWVzLTI1Ni1nY206MThlMGNjNzYtNWI0Zi00NTEzLTg0NTYtMDA0ZjlhMjUxYmFj@59.37.143.195:29132#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2012
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#🇺🇸[openproxylist.com] vless-US
 vless://b6337939-de25-41bd-b067-333a15abbd65@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#@YamYamProxy
 vless://38021ff2-6778-4363-92b1-d70ac11acf51@25.25.25.253:2096?path=/&security=tls&encryption=none&host=alanconf.info&type=ws&sni=alanconf.info#Your_Custom_Tag_Here
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.75:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20250
@@ -501,5 +503,3 @@ trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&type=tcp&headerType
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.16:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20324
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#%f0%9f%87%af%f0%9f%87%b5%20JP%2027
 vmess://eyJhZGQiOiI0NS4xNS4xNzAuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiI4MjBkNGI0Zi0zMzU3LTRkYzctOTM4MS02ZTVmZDUyYjVmMzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJcdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZjEgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vless://35b8e6de-9ea9-42a6-8045-c858e1b0a37d@vpn4.osaku.ru:17873/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=21I2zNGkoNRdySx85Ie_KY3ppat-GHMcU1bm8mSJqEY&sid=de611036cc#😈92@oneclickvpnkeys
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.32:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2043

@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://90956199-d1d6-455d-9371-1b2e83f24066@freak.gexar.top:45062?security=&encryption=none&headerType=&type=tcp#@filembad
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViNSDwn5Sl)vless://35b8e6de-9ea9-42a6-8045-c858e1b0a37d@vpn4.osaku.ru:17873/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=21I2zNGkoNRdySx85Ie_KY3ppat-GHMcU1bm8mSJqEY&sid=de611036cc#😈92@oneclickvpnkeys
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.32:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2043
+vless://90956199-d1d6-455d-9371-1b2e83f24066@freak.gexar.top:45062?security=&encryption=none&headerType=&type=tcp#@filembad
 vless://cc6cbaad-bf64-46f7-b628-4d3bddaf30c4@144.31.116.144:443?security=reality&encryption=none&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com#@icv2ray
 vless://213426db-afb7-48d1-ae51-5093317212df@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=iopl90nn.bingnet.online&type=ws&allowInsecure=1&sni=iopl90nn.bingnet.online#🚨v2ray_configs_pools 🚨
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@v2raybaaz 💎
@@ -501,5 +503,3 @@ vless://0c49f1d8-3d34-473b-bebf-9d9a4811db62@45.141.234.196:51472?security=reali
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@chatgpt.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#https://t.me/xgvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#%f0%9f%87%a9%f0%9f%87%aa%20DE%207
 vless://fb5c6de7-b0d0-47a0-a426-cdc04375ae52@testsetarehazanadantatehraniranrabbayadnejatdahim.yazdfa.ir:54268?security=none&encryption=none&headerType=none&type=tcp#VayNora
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#😈15@oneclickvpnkeys
-vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪
