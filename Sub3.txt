@@ -3,15 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20318
-vless://75954d0f-b41c-434a-9595-cd5e1502e1fc@q.gostargate.top:443?security=none&allowInsecure=0&encryption=none&type=tcp&host=static.telewebion.ir&path=/&headerType=http#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.35:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2099
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI5NC4yMzIuMjQ3LjE2NSIsICJwb3J0IjogIjQ1NjUzIiwgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjcifQ==
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.89.107.78:2053?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=/danfeng#🇲🇾 Join+Telegram:@Farah_VPN 🇲🇾
-vless://0377df23-a1d4-4b3f-ae84-0b4f3d3d71dd@pic1.myket.mom:37001?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.amazon.com&sid=c385#@GozargahAzad|🇮🇷
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDYwOTA4YjgtZGUxNi00MmU5LWJkMGQtMTkxNTIyYWI5MmE1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjE1MDk3LCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-vless://fc9fbf54-6818-42ab-813a-5c89bc601921@iran.oranicvip.ir:28797?headerType=http&host=p30afzar.com&path=%2F&security=none&type=tcp#@DSR_TM
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.211:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20105
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl)ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.211:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11204#%f0%9f%87%ac%f0%9f%87%b7%20GR%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2038
 vless://20dff991-201e-28b0-b584-fd5c8861de4d@37.32.9.246:48324?security=&encryption=none&headerType=none&type=tcp#Astro%202
@@ -423,6 +415,7 @@ vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?security
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.128:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2056
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.32:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2095
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44236#%f0%9f%87%ae%f0%9f%87%b3%20IN%206
+vless://ac421bf3-470d-4e21-a56d-c8d622f6df2f@api.livecut.cc:443?&security=tls&sni=api.livecut.cc&type=ws&headerType=none&host=api.livecut.cc&path=/music#🇹🇼[openproxylist.com] vless-TW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%f0%9f%87%b3%f0%9f%87%b1%20NL%2051
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YWZhMzkwMTZkNWE0MDlj@194.233.73.51:48804#%f0%9f%87%b8%f0%9f%87%ac%20SG%205
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.43:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%209
@@ -503,3 +496,10 @@ vless://c95399cc-f2f2-4c3f-ad17-08dc27995346@de-15.ipsum.sbs:18464?encryption=no
 vmess://eyJhZGQiOiAiY3hzZnZuLnVob21kZXguc2hvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICJjeHNmdm4udWhvbWRleC5zaG9wIiwgImlkIjogImJiNmUyNjBlLWI4MGQtNDM2NS1iMjUyLTlmYmU0NjZmMWYzNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiY3hzZnZuLnVob21kZXguc2hvcCJ9
 vless://40e9f68c-0ad7-4830-ae32-8c8061f8a6aa@s1.vahshat.xyz:53504?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 ss://2022-blake3-aes-256-gcm:mtMkp%2B1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o%3D%3AAAvo%2BBsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ%3D@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:12742#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2008
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.42:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%20174
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjQiLCJhZGQiOiJ0aW1lLmlyIiwicG9ydCI6IjQ0MyIsImlkIjoibGFzdC11cGRhdGUtdGltZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0aW1lLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ0aW1lLmlyIiwidGVzdF9uYW1lIjoiMjQifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001296egb.cybervena.com:50099#🔥Join+Telegram:@Farah_VPN🟣
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@us1.axinode.sbs:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#👻04@oneclickvpnkeys
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICJtZWwuZGlnaXRhbGxkbnMuY29tIiwgInBvcnQiOiAiODQ0MyIsICJpZCI6ICJiNGUxZmE1NC02NDdmLTQzNzktYjY5NS1lYjliNWM0NThmOTAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InQubWUlMjUyRnJpcGFvamllZGlhbiIsInRscyI6IiJ9
+vless://e70d6fe1-6f19-4953-8f46-cc0c491f44fb@blog3.gelatocabana.ir:443/?type=tcp&encryption=none&security=none#S1527%2520test
