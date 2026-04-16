@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: 
 #profile-web-page-url: 
-%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)vless://009e75c1-442b-4f42-baa1-2689d15a2207@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#[27731] - Telegram : @V2All
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl)ss://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;sni=sni.111000.dynv6.net#🔥Join+Telegram:@Farah_VPN🟣
+vless://009e75c1-442b-4f42-baa1-2689d15a2207@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#[27731] - Telegram : @V2All
 vless://8058fd1c-28ca-4e6c-9828-ce7cf4433b5c@134.255.204.17:443?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-v2rayvpnchannel@51.44.188.122:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 vless://a589a8c6-ddbb-496f-92bd-7422ea8c9fb7@isv31x.smrfy.online:45965?security=&encryption=none&host=trexplus.org&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -153,7 +154,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-
 trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
 vless://7de6208b-01fd-f02d-4a38-5b7541c4e14e@lord.socialxxmedia.pro:440?security=&encryption=none&host=fast.com&headerType=http&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://868ecdaf6aed618ec98cf78585672b2b@54.199.47.118:2001?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=www.gpt123.one&amp%3Binsecure=1&amp%3Btype=raw&amp%3Bheadertype=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 vless://b2bd5bed-2715-4b6c-c920-91a9d13fa707@mmd.az99x.info:8880?path=%2F&security=none&encryption=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:805#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0120
 ss://e4e1d819-9143-48b2-a206-f78e680083a6@185.143.234.235:80?security=none&amp;encryption=none&amp;host=vixon.portab.org&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
