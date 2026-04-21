@@ -1,0 +1,6 @@
+#profile-title: base64:am5qYWwgc3Vi
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: 
+#profile-web-page-url: 
+%!(EXTRA string=8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMTEg8J+UpQ==)vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@141.101.120.246:443/?type=ws&encryption=none&host=dip.amperes.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http%2F1.1&fp=firefox#%20%7C%20FREEDOM%20%7C%20-%20MKH
