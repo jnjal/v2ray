@@ -399,7 +399,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWEhWWVg2TDVFb2ZWb0ppN1pkQ0F4SmZWTVhIZGoxMmRRUkVrUkNGUU1QY3NyRlhYV3FIeDNXUlVhellaVkM4dlo0N1h0SDVzRGtHbzFyTlpyaTZTV3hobnJ4NUNmVno=@185.5.38.111:55988?type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 vless://4278a814-4a82-4b9b-8092-0ba60a3fb2f6@193.151.153.47:34661?encryption=none&type=tcp&headerType=none#@techbod
 vless://58f38a60-0019-488a-9f7e-20f3258c91ba@174.136.205.68:443?security=reality&sni=navi.bankrate.com&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&type=tcp&headerType=none&host=navi.bankrate.com&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2046
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivIOeUteiur+ebiOenkeaciemZkOWFrOWPuCIsImFkZCI6ImVmYW4uZG5zZWZhbjA0ODgxLmNvbSIsInBvcnQiOiI3NzU0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjAwOWU1NThkLTNjZjQtNDlkOC1iNWU0LTgyYzllMTRmZTFhNCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJlZmFuLmRuc2VmYW4wNDg4MS5jb20iLCJ0bHMiOiIifQ==
 vmess://eyJob3N0IjogIlBPTDAwMS5taWRhc25ldC53b3JrIiwgImlkIjogImQ3NDllODE0LWM3NWItNDE2ZS04YWVkLWY3NDQ5MDNkMGVlYyIsICJzY3kiOiAiYXV0byIsICJwYXRoIjogIi8iLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjgwIiwgImFkZCI6ICJjZG4uaXAtc3RhdGljLmNvbSJ9
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0288
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.130:38388#%f0%9f%87%bb%f0%9f%87%b3%20VN%2087
@@ -503,3 +502,4 @@ trojan://1774240c00db2b77d5a99f6540c47b69@3.112.254.212:52687?allowInsecure=0&sn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#🐲11@oneclickvpnkeys
 vless://27097791-9208-4458-b36a-2997911357d9@snapp.ir:80?encryption=none&type=ws&path=%2F&host=cdn.softnetconnect.ir#%40Vpn_jet7
 vless://b73c2d6f-5343-4236-851b-e8552190ef42@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@TROWER_NEWS
+ss://986a442c-6621-4197-9a35-0ae697d0e20d@185.220.227.100:2080?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
